@@ -5,7 +5,7 @@ import Image from "next/image";
 import { Montserrat, Poppins } from "next/font/google";
 
 import { cn } from "@/lib/utils";
-import { Code, ImageIcon, LayoutDashboard, MessageSquare, Settings2Icon, SettingsIcon, Video } from "lucide-react";
+import { Code, Code2, ImageIcon, LayoutDashboard, MessageSquare, Settings2Icon, SettingsIcon, Video } from "lucide-react";
 import { usePathname } from "next/navigation";
 
 const montserrat = Montserrat({
@@ -45,7 +45,7 @@ const routes = [
   },
   {
     label: "Code Generator",
-    icon: Code,
+    icon: Code2,
     href: "/code",
     color: "text-green-500",
   },
