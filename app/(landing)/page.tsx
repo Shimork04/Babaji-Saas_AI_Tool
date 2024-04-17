@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
+console.log("babaji is working");
 const LandingPage = () => {
     return (
         <div>
