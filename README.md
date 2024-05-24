@@ -1,3 +1,7 @@
+## About Babaji
+
+Babaji is an innovative AI tool that consolidates multiple AI services into one platform, offering chat and conversation capabilities, video generation, audio synthesis, and image creation. Utilizing OpenAI for advanced chat features, Babaji provides a seamless and user-friendly experience, making cutting-edge AI technology easily accessible and enhancing productivity across various applications.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
